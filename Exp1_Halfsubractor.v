@@ -1,7 +1,6 @@
-module hs(a,b,difference,borrow);
+module halfsubtractor(a,b,diff,borrow);
 input a,b;
-output difference,borrow;
-
-
-
+output diff,borrow;
+xor g1(diff,a,b);
+and g2(borrow,~a,b);
 endmodule
