@@ -1,6 +1,6 @@
 # VLSI-LAB-EXPERIMENTS
 AIM: 
-To simulate and synthesis Logic Gates,Adders and Subtractor using Xilinx ISE.
+To simulate and synthesis Logic Gates,Adders and Subtractor using Vivado 2023.1
 
 APPARATUS REQUIRED: 
 Vivado 2023.1
